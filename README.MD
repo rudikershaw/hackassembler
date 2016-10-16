@@ -11,3 +11,5 @@ The HackAssembler should provide you with basic feedback if anything goes wrong,
 ___
 
 I understand that the Nand 2 Tetris course is run at numerous universities. This implementation is for you to use however you like, but please do not use this to skip writing your own implementation for a course. That would be dishonest and the real understanding comes from implementing it yourself.
+
+For more information on the course (I recommend it) you can visit www.nand2tetris.org
